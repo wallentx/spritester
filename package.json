@@ -1,0 +1,23 @@
+{
+  "name": "spritester",
+  "version": "1.0.0",
+  "description": "Spritester is an HTML5 based Texture Atlas generator written in TypeScript.  User can drag a series of sprites onto the web page, and click 'Download' to download a packed png file and a corresponding json file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/battlelinegames/spritester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/battlelinegames/spritester/issues"
+  },
+  "homepage": "https://github.com/battlelinegames/spritester#readme",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
